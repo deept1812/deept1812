@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Deepthi B H</h1>
 
-<!--
-**deept1812/deept1812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+B.Tech Computer Science & Engineering (Big Data)<br>
+Presidency University, Bengaluru
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about AI • Computer Vision • Data Analytics • Software Development
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Currently building <b>GuardianAI</b> 🚀
+</p>
+
+---
+
+### 📫 Connect with me
+
+- 📧 Email: deepthiharishbidrupane@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/deepthi-bh-1826312b4/
+- 💻 GitHub: https://github.com/deept1812
