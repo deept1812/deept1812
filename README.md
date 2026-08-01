@@ -48,10 +48,13 @@ Currently building <b>GuardianAI</b> 🚀
 
 ---
 
-## 🌸 Tech Stack
+---
 
-### 🌷Languages
-<p>
+<h2 align="center">🌸 Tech Stack 🌸</h2>
+
+<h3 align="center"> Languages</h3>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Java-FBCFE8?style=for-the-badge&logo=openjdk&logoColor=BE185D"/>
 <img src="https://img.shields.io/badge/Python-F9A8D4?style=for-the-badge&logo=python&logoColor=831843"/>
 <img src="https://img.shields.io/badge/JavaScript-FBCFE8?style=for-the-badge&logo=javascript&logoColor=BE185D"/>
@@ -60,21 +63,88 @@ Currently building <b>GuardianAI</b> 🚀
 <img src="https://img.shields.io/badge/R-F9A8D4?style=for-the-badge&logo=r&logoColor=831843"/>
 </p>
 
-### 🌷 AI & Data
-<p>
+<h3 align="center"> AI & Data</h3>
+
+<p align="center">
 <img src="https://img.shields.io/badge/OpenCV-FBCFE8?style=for-the-badge&logo=opencv&logoColor=BE185D"/>
 <img src="https://img.shields.io/badge/YOLOv8-F9A8D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-FBCFE8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Pandas-F9A8D4?style=for-the-badge&logo=pandas&logoColor=831843"/>
 <img src="https://img.shields.io/badge/NumPy-FBCFE8?style=for-the-badge&logo=numpy&logoColor=BE185D"/>
+<img src="https://img.shields.io/badge/Power%20BI-F9A8D4?style=for-the-badge&logo=powerbi&logoColor=831843"/>
 </p>
 
-### 🌷 Databases & Tools
-### 🎀 Databases & Tools
-<p>
+<h3 align="center"> Databases & Tools</h3>
+
+<p align="center">
 <img src="https://img.shields.io/badge/MySQL-FBCFE8?style=for-the-badge&logo=mysql&logoColor=BE185D"/>
 <img src="https://img.shields.io/badge/MongoDB-F9A8D4?style=for-the-badge&logo=mongodb&logoColor=831843"/>
 <img src="https://img.shields.io/badge/Docker-FBCFE8?style=for-the-badge&logo=docker&logoColor=BE185D"/>
 <img src="https://img.shields.io/badge/VS%20Code-F9A8D4?style=for-the-badge&logo=visualstudiocode&logoColor=831843"/>
-<img src="https://img.shields.io/badge/Power%20BI-FBCFE8?style=for-the-badge&logo=powerbi&logoColor=BE185D"/>
+</p>
+
+
+---
+
+<h2 align="center">✨ Featured Projects ✨</h2>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🛡️ GuardianAI
+**AI-Powered Intelligent Video Surveillance System**
+
+- Real-time person detection and object tracking
+- Intrusion detection and fire monitoring
+- Built using Python, OpenCV, YOLOv8 & Deep Learning
+
+</td>
+
+<td width="50%">
+
+### 📍 GPS Tracker
+**Real-Time Location Tracking System**
+
+- Raspberry Pi Zero 2W based GPS tracking
+- Neo-6M GPS module with Firebase integration
+- Live location monitoring
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎨 Live Image Color Detection
+**Python • OpenCV**
+
+- Detects and identifies object colors in real time
+- Developed during Data Science Internship
+
+</td>
+
+<td width="50%">
+
+### 📊 Data Analysis Projects
+
+- Exploratory Data Analysis on
+  - Titanic Dataset
+  - Accident Dataset
+  - Bank Marketing Dataset
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=deept1812&show_icons=true&theme=transparent&hide_border=true&title_color=EC4899&icon_color=EC4899&text_color=F9A8D4" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deept1812&layout=compact&theme=transparent&hide_border=true&title_color=EC4899&text_color=F9A8D4" />
 </p>
