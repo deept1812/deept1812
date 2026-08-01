@@ -139,12 +139,14 @@ Currently building <b>GuardianAI</b> 🚀
 
 ---
 
+---
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=deept1812&show_icons=true&theme=transparent&hide_border=true&title_color=EC4899&icon_color=EC4899&text_color=F9A8D4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deept1812&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deept1812&layout=compact&theme=transparent&hide_border=true&title_color=EC4899&text_color=F9A8D4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deept1812&layout=compact&theme=radical&hide_border=true" />
 </p>
