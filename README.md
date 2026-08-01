@@ -138,35 +138,22 @@ Currently building <b>GuardianAI</b> 🚀
 </table>
 
 ---
-
 ---
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deept1812&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deept1812&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
----
-
+]
 <h2 align="center">🏅 Certifications</h2>
 
 <p align="center">
 
-🎓 <b>NPTEL Elite – Mathematical Foundations of Machine Learning</b>
+<a href="#">
+<img src="https://img.shields.io/badge/NPTEL-Elite%20ML-FBCFE8?style=for-the-badge&logo=academia&logoColor=BE185D"/>
+</a>
 
-<br>
+<a href="#">
+<img src="https://img.shields.io/badge/Power%20BI-Simplilearn-F9A8D4?style=for-the-badge&logo=powerbi&logoColor=831843"/>
+</a>
 
-📊 <b>Power BI – Simplilearn</b>
-
-<br>
-
-🐳 <a href="https://www.linkedin.com/learning/certificates/80151913ff35f471130cc91364fba628c746cc64623ce393fb42c637bfbacd4a?trk=share_certificate"><b>Docker Foundations Professional Certificate</b></a>
+<a href="https://www.linkedin.com/learning/certificates/80151913ff35f471130cc91364fba628c746cc64623ce393fb42c637bfbacd4a?trk=share_certificate">
+<img src="https://img.shields.io/badge/Docker-Foundations-FBCFE8?style=for-the-badge&logo=docker&logoColor=BE185D"/>
+</a>
 
 </p>
