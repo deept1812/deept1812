@@ -36,3 +36,18 @@ Currently building <b>GuardianAI</b> 🚀
 </a>
 
 </p>
+
+## 🌸 About Me
+
+🎓 B.Tech Computer Science & Engineering (Big Data) student at Presidency University, Bengaluru.
+
+💻 Passionate about Artificial Intelligence, Computer Vision, Data Analytics, and Software Engineering, with a strong interest in building practical, real-world solutions.
+
+🚀 Currently developing **GuardianAI**, an AI-powered intelligent surveillance system featuring intrusion detection, fire detection, suspicious activity analysis, and real-time alerts.
+
+📚 Continuously expanding my expertise in Java, Python, Docker and Data Structures & Algorithms.
+
+🎯 Aspiring Software Engineer focused on developing scalable, AI-driven applications that create meaningful impact.
+
+---
+
