@@ -39,15 +39,42 @@ Currently building <b>GuardianAI</b> 🚀
 
 ## 🌸 About Me
 
-🎓 B.Tech Computer Science & Engineering (Big Data) student at Presidency University, Bengaluru.
+- B.Tech Computer Science & Engineering (Big Data) student at Presidency University, Bengaluru.
+- Passionate about Artificial Intelligence, Computer Vision, Data Analytics, and Software Engineering.
+- Currently developing **GuardianAI**, an AI-powered intelligent surveillance system.
+- Continuously improving my expertise in Java, Python, Docker, and Data Structures & Algorithms.
+- Aspiring Software Engineer focused on building scalable AI-driven applications.
 
-💻 Passionate about Artificial Intelligence, Computer Vision, Data Analytics, and Software Engineering, with a strong interest in building practical, real-world solutions.
-
-🚀 Currently developing **GuardianAI**, an AI-powered intelligent surveillance system featuring intrusion detection, fire detection, suspicious activity analysis, and real-time alerts.
-
-📚 Continuously expanding my expertise in Java, Python, Docker and Data Structures & Algorithms.
-
-🎯 Aspiring Software Engineer focused on developing scalable, AI-driven applications that create meaningful impact.
 
 ---
 
+## 🌸 Tech Stack
+
+### 💖 Languages
+<p>
+<img src="https://img.shields.io/badge/Java-FBCFE8?style=for-the-badge&logo=openjdk&logoColor=BE185D"/>
+<img src="https://img.shields.io/badge/Python-F9A8D4?style=for-the-badge&logo=python&logoColor=831843"/>
+<img src="https://img.shields.io/badge/C-FBCFE8?style=for-the-badge&logo=c&logoColor=BE185D"/>
+<img src="https://img.shields.io/badge/JavaScript-F9A8D4?style=for-the-badge&logo=javascript&logoColor=831843"/>
+<img src="https://img.shields.io/badge/HTML5-FBCFE8?style=for-the-badge&logo=html5&logoColor=BE185D"/>
+<img src="https://img.shields.io/badge/CSS3-F9A8D4?style=for-the-badge&logo=css3&logoColor=831843"/>
+</p>
+
+### 🌷 AI & Data
+<p>
+<img src="https://img.shields.io/badge/OpenCV-FBCFE8?style=for-the-badge&logo=opencv&logoColor=BE185D"/>
+<img src="https://img.shields.io/badge/YOLOv8-F9A8D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FBCFE8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-F9A8D4?style=for-the-badge&logo=pandas&logoColor=831843"/>
+<img src="https://img.shields.io/badge/NumPy-FBCFE8?style=for-the-badge&logo=numpy&logoColor=BE185D"/>
+</p>
+
+### 🎀 Databases & Tools
+<p>
+<img src="https://img.shields.io/badge/MySQL-FBCFE8?style=for-the-badge&logo=mysql&logoColor=BE185D"/>
+<img src="https://img.shields.io/badge/MongoDB-F9A8D4?style=for-the-badge&logo=mongodb&logoColor=831843"/>
+<img src="https://img.shields.io/badge/Docker-FBCFE8?style=for-the-badge&logo=docker&logoColor=BE185D"/>
+<img src="https://img.shields.io/badge/Git-F9A8D4?style=for-the-badge&logo=git&logoColor=831843"/>
+<img src="https://img.shields.io/badge/GitHub-FBCFE8?style=for-the-badge&logo=github&logoColor=BE185D"/>
+<img src="https://img.shields.io/badge/VS%20Code-F9A8D4?style=for-the-badge&logo=visualstudiocode&logoColor=831843"/>
+</p>
