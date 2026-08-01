@@ -144,9 +144,29 @@ Currently building <b>GuardianAI</b> 🚀
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=deept1812&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deept1812&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deept1812&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deept1812&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+---
+
+<h2 align="center">🏅 Certifications</h2>
+
+<p align="center">
+
+🎓 <b>NPTEL Elite – Mathematical Foundations of Machine Learning</b>
+
+<br>
+
+📊 <b>Power BI – Simplilearn</b>
+
+<br>
+
+🐳 <a href="https://www.linkedin.com/learning/certificates/80151913ff35f471130cc91364fba628c746cc64623ce393fb42c637bfbacd4a?trk=share_certificate"><b>Docker Foundations Professional Certificate</b></a>
+
 </p>
