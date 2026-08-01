@@ -54,7 +54,7 @@ Currently building <b>GuardianAI</b> 🚀
 <p>
 <img src="https://img.shields.io/badge/Java-FBCFE8?style=for-the-badge&logo=openjdk&logoColor=BE185D"/>
 <img src="https://img.shields.io/badge/Python-F9A8D4?style=for-the-badge&logo=python&logoColor=831843"/>
-<img src="https://img.shields.io/badge/C-FBCFE8?style=for-the-badge&logo=c&logoColor=BE185D"/>
+<img src="https://img.shields.io/badge/R program-FBCFE8?style=for-the-badge&logo=R program&logoColor=BE185D"/>
 <img src="https://img.shields.io/badge/JavaScript-F9A8D4?style=for-the-badge&logo=javascript&logoColor=831843"/>
 <img src="https://img.shields.io/badge/HTML5-FBCFE8?style=for-the-badge&logo=html5&logoColor=BE185D"/>
 <img src="https://img.shields.io/badge/CSS3-F9A8D4?style=for-the-badge&logo=css3&logoColor=831843"/>
@@ -74,7 +74,5 @@ Currently building <b>GuardianAI</b> 🚀
 <img src="https://img.shields.io/badge/MySQL-FBCFE8?style=for-the-badge&logo=mysql&logoColor=BE185D"/>
 <img src="https://img.shields.io/badge/MongoDB-F9A8D4?style=for-the-badge&logo=mongodb&logoColor=831843"/>
 <img src="https://img.shields.io/badge/Docker-FBCFE8?style=for-the-badge&logo=docker&logoColor=BE185D"/>
-<img src="https://img.shields.io/badge/Git-F9A8D4?style=for-the-badge&logo=git&logoColor=831843"/>
-<img src="https://img.shields.io/badge/GitHub-FBCFE8?style=for-the-badge&logo=github&logoColor=BE185D"/>
 <img src="https://img.shields.io/badge/VS%20Code-F9A8D4?style=for-the-badge&logo=visualstudiocode&logoColor=831843"/>
 </p>
