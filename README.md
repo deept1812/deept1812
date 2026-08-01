@@ -50,14 +50,14 @@ Currently building <b>GuardianAI</b> 🚀
 
 ## 🌸 Tech Stack
 
-### 💖 Languages
+### 🌷Languages
 <p>
 <img src="https://img.shields.io/badge/Java-FBCFE8?style=for-the-badge&logo=openjdk&logoColor=BE185D"/>
 <img src="https://img.shields.io/badge/Python-F9A8D4?style=for-the-badge&logo=python&logoColor=831843"/>
-<img src="https://img.shields.io/badge/R program-FBCFE8?style=for-the-badge&logo=R program&logoColor=BE185D"/>
-<img src="https://img.shields.io/badge/JavaScript-F9A8D4?style=for-the-badge&logo=javascript&logoColor=831843"/>
-<img src="https://img.shields.io/badge/HTML5-FBCFE8?style=for-the-badge&logo=html5&logoColor=BE185D"/>
-<img src="https://img.shields.io/badge/CSS3-F9A8D4?style=for-the-badge&logo=css3&logoColor=831843"/>
+<img src="https://img.shields.io/badge/JavaScript-FBCFE8?style=for-the-badge&logo=javascript&logoColor=BE185D"/>
+<img src="https://img.shields.io/badge/HTML5-F9A8D4?style=for-the-badge&logo=html5&logoColor=831843"/>
+<img src="https://img.shields.io/badge/CSS3-FBCFE8?style=for-the-badge&logo=css3&logoColor=BE185D"/>
+<img src="https://img.shields.io/badge/R-F9A8D4?style=for-the-badge&logo=r&logoColor=831843"/>
 </p>
 
 ### 🌷 AI & Data
@@ -69,10 +69,12 @@ Currently building <b>GuardianAI</b> 🚀
 <img src="https://img.shields.io/badge/NumPy-FBCFE8?style=for-the-badge&logo=numpy&logoColor=BE185D"/>
 </p>
 
+### 🌷 Databases & Tools
 ### 🎀 Databases & Tools
 <p>
 <img src="https://img.shields.io/badge/MySQL-FBCFE8?style=for-the-badge&logo=mysql&logoColor=BE185D"/>
 <img src="https://img.shields.io/badge/MongoDB-F9A8D4?style=for-the-badge&logo=mongodb&logoColor=831843"/>
 <img src="https://img.shields.io/badge/Docker-FBCFE8?style=for-the-badge&logo=docker&logoColor=BE185D"/>
 <img src="https://img.shields.io/badge/VS%20Code-F9A8D4?style=for-the-badge&logo=visualstudiocode&logoColor=831843"/>
+<img src="https://img.shields.io/badge/Power%20BI-FBCFE8?style=for-the-badge&logo=powerbi&logoColor=BE185D"/>
 </p>
