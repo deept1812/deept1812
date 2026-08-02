@@ -101,19 +101,10 @@ Currently building <b>GuardianAI</b> 🚀
 
 </td>
 
-<td width="50%">
 
-### 📍 GPS Tracker
-**Real-Time Location Tracking System**
 
-- Raspberry Pi Zero 2W based GPS tracking
-- Neo-6M GPS module with Firebase integration
-- Live location monitoring
 
-</td>
-</tr>
 
-<tr>
 <td width="50%">
 
 ### 🎨 Live Image Color Detection
