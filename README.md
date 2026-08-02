@@ -161,19 +161,23 @@ Currently building <b>GuardianAI</b> 🚀
 
 <td width="50%">
 
-### 🎨 Live Image Color Detection
+### 💻 LeetCode – Daily DSA Solutions
 
-**Computer Vision Project**
+**Optimized Java Solutions Repository**
 
-🔹 Detects colors in real time
+🔹 Solving LeetCode problems consistently in Java
 
-🔹 Built using OpenCV
+🔹 Clean, optimized, and interview-ready solutions
 
-🔹 Processes live webcam feed
+🔹 Covers Arrays, Strings, Linked Lists, Trees, Graphs, DP, Greedy, and more
+
+🔹 Updated daily to strengthen problem-solving skills
 
 **Tech Stack**
 
-`Python` `OpenCV`
+`Java` `DSA` `Algorithms` `LeetCode`
+
+➡️ **Repository:** https://github.com/deept1812/Leetcode
 
 </td>
 
