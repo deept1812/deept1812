@@ -88,43 +88,95 @@ Currently building <b>GuardianAI</b> 🚀
 
 <h2 align="center">✨ Featured Projects ✨</h2>
 
-<table align="center">
+<table>
 <tr>
+
 <td width="50%">
 
-### 🛡️ GuardianAI
-**AI-Powered Intelligent Video Surveillance System**
+### 🛡️ GuardianAI – Intrusion Detection
+**AI-Powered Smart Surveillance System**
 
-- Real-time person detection and object tracking
-- Intrusion detection and fire monitoring
-- Built using Python, OpenCV, YOLOv8 & Deep Learning
+🔹 Real-time person detection and motion monitoring
+
+🔹 ROI-based intrusion detection
+
+🔹 Telegram instant alerts with snapshot capture
+
+🔹 Automatic video recording
+
+**Tech Stack**
+
+`Python` `OpenCV` `Computer Vision`
+
+➡️ **Repository:** https://github.com/deept1812/GuardianAI-Intrusion-Detection
 
 </td>
 
+<td width="50%">
 
+### 🔥 GuardianAI – Fire Detection
+**Real-Time Fire & Smoke Detection**
 
+🔹 Detects fire and smoke using YOLO11
 
+🔹 Telegram Bot alerts
+
+🔹 Automatic image capture
+
+🔹 Designed for smart home surveillance
+
+**Tech Stack**
+
+`Python` `YOLO11` `OpenCV`
+
+➡️ **Repository:** https://github.com/deept1812/GuardianAI-Fire-Detection
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🛒 RetailIQ – Customer Behavior Analysis
+
+**End-to-End Data Analytics Project**
+
+🔹 SQL business analysis
+
+🔹 Data cleaning & preprocessing
+
+🔹 Exploratory Data Analysis
+
+🔹 Interactive Power BI dashboard
+
+**Tech Stack**
+
+`Python` `PostgreSQL` `SQL` `Power BI`
+
+➡️ **Repository:** https://github.com/deept1812/RetailIQ-Customer_Behavior_Analysis
+
+</td>
 
 <td width="50%">
 
 ### 🎨 Live Image Color Detection
-**Python • OpenCV**
 
-- Detects and identifies object colors in real time
-- Developed during Data Science Internship
+**Computer Vision Project**
 
-</td>
+🔹 Detects colors in real time
 
-<td width="50%">
+🔹 Built using OpenCV
 
-### 📊 Data Analysis Projects
+🔹 Processes live webcam feed
 
-- Exploratory Data Analysis on
-  - Titanic Dataset
-  - Accident Dataset
-  - Bank Marketing Dataset
+**Tech Stack**
+
+`Python` `OpenCV`
 
 </td>
+
 </tr>
 </table>
 
