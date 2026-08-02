@@ -139,7 +139,7 @@ Currently building <b>GuardianAI</b> 🚀
 
 ---
 ---
-]
+
 <h2 align="center">🏅 Certifications</h2>
 
 <p align="center">
