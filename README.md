@@ -187,7 +187,7 @@ Currently building <b>GuardianAI</b> 🚀
 
 <p align="center">
 
-<a href="#">
+<a href="https://archive.nptel.ac.in/noc/B2C/candidate_login/transcript_download.php">
 <img src="https://img.shields.io/badge/NPTEL-Elite%20ML-FBCFE8?style=for-the-badge&logo=academia&logoColor=BE185D"/>
 </a>
 
