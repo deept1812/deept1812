@@ -191,7 +191,7 @@ Currently building <b>GuardianAI</b> 🚀
 <img src="https://img.shields.io/badge/NPTEL-Elite%20ML-FBCFE8?style=for-the-badge&logo=academia&logoColor=BE185D"/>
 </a>
 
-<a href="#">
+<a href="https://simpli-web.app.link/e/kk2sBov5g5b">
 <img src="https://img.shields.io/badge/Power%20BI-Simplilearn-F9A8D4?style=for-the-badge&logo=powerbi&logoColor=831843"/>
 </a>
 
