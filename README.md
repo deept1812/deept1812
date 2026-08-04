@@ -19,7 +19,7 @@ Currently building <b>GuardianAI</b> 🚀
 
 ---
 
-<h3 align="center">🌸 Let's Connect 🌸</h3>
+<h3 align="center"> Let's Connect </h3>
 
 <p align="center">
 
@@ -37,7 +37,7 @@ Currently building <b>GuardianAI</b> 🚀
 
 </p>
 
-## 🌸 About Me
+##  About Me
 
 - B.Tech Computer Science & Engineering (Big Data) student at Presidency University, Bengaluru.
 - Passionate about Artificial Intelligence, Computer Vision, Data Analytics, and Software Engineering.
@@ -50,7 +50,7 @@ Currently building <b>GuardianAI</b> 🚀
 
 ---
 
-<h2 align="center">🌸 Tech Stack 🌸</h2>
+<h2 align="center"> Tech Stack </h2>
 
 <h3 align="center"> Languages</h3>
 
@@ -86,7 +86,7 @@ Currently building <b>GuardianAI</b> 🚀
 
 ---
 
-<h2 align="center">✨ Featured Projects ✨</h2>
+<h2 align="center"> Featured Projects </h2>
 
 <table>
 <tr>
