@@ -109,6 +109,8 @@ Currently building <b>GuardianAI</b> 🚀
 
 `Python` `Flask` `PostgreSQL` `SQLAlchemy` `Groq AI` `Phone.email OTP` `Bootstrap 5`
 
+➡️ Repository: [https://github.com/yourusername/Project_Nexus](https://github.com/deept1812/project_nexus)
+
 🌐 **Live Demo:** https://project-nexus-0zk6.onrender.com
 
 </td>
